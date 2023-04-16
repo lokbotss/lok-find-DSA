@@ -2,7 +2,7 @@
 league of kingdoms bot
 league of kingdoms bot
 
-lokbot find dragon soul , find crystal mine
+lokbot find dragon soul , find crystal mine , lokbot find dragon cavern
 
 here link bot works 
 
